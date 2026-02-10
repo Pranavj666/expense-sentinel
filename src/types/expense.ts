@@ -1,5 +1,3 @@
-// src/types/expense.ts
-
 export interface Expense {
   id: string;
   description: string;
